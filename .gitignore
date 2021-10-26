@@ -1,0 +1,9 @@
+#folders
+/node_modules
+/tmp
+/dist
+
+#files
+.env
+*.lock
+*.log
